@@ -1,5 +1,3 @@
-> This is v1.0 of Sobchak, and has been depreciated.
-
 # Sobchak
 
 Create/verify SHA256 hashes for all files in a directory.
